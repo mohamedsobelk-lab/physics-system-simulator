@@ -58,7 +58,8 @@ The simulation displays real-time performance data:
 ```bash
 mkdir build
 cd build
-cmake .. -DBOX2D_ROOT=/path/to/box2d -DSFML_ROOT=/path/to/sfml```
+cmake .. -DBOX2D_ROOT=/path/to/box2d -DSFML_ROOT=/path/to/sfml
+```
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
