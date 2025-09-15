@@ -1,0 +1,3 @@
+2
+-32 -32   32 -32   32 32   // First triangle (bottom-right)
+-32 -32   32 32   -32 32   // Second triangle (top-left)
